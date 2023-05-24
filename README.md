@@ -2,7 +2,7 @@
 The current project captures the usage of WebPPL to conceptualize risk taking and belief towards mental illness. The model suggested here performs similarly to a human agent. 
 
 
-```json
+```
 
 var diseaseAssign = ["cognitive", "physical"]
 var frameAssing = ["positive", "negative"]
