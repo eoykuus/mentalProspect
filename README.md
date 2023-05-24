@@ -1,5 +1,5 @@
 # Belief towards mental illness as an underlying factor for risk taking in different disease scenarios
-The current project captures the usage of WebPPL to conceptualize risk taking and belief towards mental illness. The model suggested here performs similarly to a human agent. 
+The current project captures the usage of WebPPL to conceptualize risk taking and belief towards mental illness. The model suggested here performs similarly to a human agent, and it can be used to test different scenarios.
 
 
 ```
